@@ -11,6 +11,7 @@ This is a flashcard learning application that implements the **Leitner System** 
 - **Flashcard Management**: Users can add, edit, and delete flashcards.
 - **Play Mode**: Engage in active recall by answering flashcard questions.
 - **About Section**: Learn how the game and spaced repetition system work.
+- **AI dymanic MCQ options** : Using Groq API to fetch options to make flashcard question in MCQ.
 
 ---
 
