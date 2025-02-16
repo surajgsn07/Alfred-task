@@ -68,3 +68,16 @@ The `nextReview` field determines when the flashcard should be shown to the user
 6. **Theme Selection**: Users can switch between dark and light mode.
 7. **About Section**: Provides information on how the system works.
 
+## Screenshots :
+![Screenshot_2025-02-16-20-11-35-53_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/ec2deed4-7bf1-4952-8919-52ee51b116dd)
+![Screenshot_2025-02-16-20-11-57-45_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/287e1881-dad2-4966-af78-b9330d5d29b8)
+![Screenshot_2025-02-16-20-10-49-94_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/e9636d75-e3ab-4f50-b38a-fcd288f1f62a)
+![Screenshot_2025-02-16-20-11-54-46_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/5c0a757b-1174-49eb-ac93-bf6e9299e4f7)
+![Screenshot_2025-02-16-20-11-39-73_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/6cc8623a-01c5-457d-8f8b-865e4e921c53)
+![Screenshot_2025-02-16-20-10-52-88_971289f995469705f6f3dbdc4f96b96e](https://github.com/user-attachments/assets/9954b810-4813-4c4a-99f4-8771c5b6d3eb)
+
+
+
+
+
+
