@@ -14,6 +14,13 @@ app.use(cors({
 }));
 connectDB();
 
+
+
+app.get("/" , (req,res)=>{
+    res.send("hello ")
+})
+
+
 // Routes
 app.use('/user', userRoutes);
 app.use('/flashcard', flashcardRoutes);
